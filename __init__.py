@@ -1,0 +1,1 @@
+"""EffiCAT package."""
